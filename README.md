@@ -22,7 +22,7 @@ tableau file uploaded
 ## 🛠 Tools Used
 - Python (Pandas)
 - Tableau
-- Excel
+  
 
 ## 💡 Insights
 - November and December are peak sales months
